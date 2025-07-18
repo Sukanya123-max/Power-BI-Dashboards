@@ -20,4 +20,5 @@ This Power BI dashboard analyzes sales, profit, and customer trends across diffe
 
 ## 📁 Files Included:
 - `<img width="958" height="552" alt="Superstore Analysis" src="https://github.com/user-attachments/assets/cbbd6ec6-1ad6-4169-b8ba-bd1e33fce183" />': Screenshot of the final dashboard
-
+- 'Sample - Superstore (1).csv' : Datasets used for this Project.
+- 'Superstore visualization new.pbix' : Power BI Dashboard File.
