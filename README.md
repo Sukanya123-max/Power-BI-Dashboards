@@ -49,6 +49,9 @@ ________________________________________
 📁 Dataset:
 Source: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 ________________________________________
+## 📁 Files Included:
+• Screenshot of dashboard: Students_Performance_dashboard_screenshot.png
+
 🛠️ Tools Used:
 •	Power BI
 •	Data Cleaning in Power Query
