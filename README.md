@@ -45,19 +45,20 @@ ________________________________________
 •	Scatter plot for visual correlation of subject scores
 •	Filters for dynamic analysis (gender, race, lunch type, etc.)
 •	KPI cards for male and female student count
-________________________________________
+
 📁 Dataset:
 Source: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
-________________________________________
+
 ## 📁 Files Included:
 • Screenshot of dashboard: Students_Performance_dashboard_screenshot.png
-• StudentsPerformance.csv
+• Dataset: StudentsPerformance.csv
+• Power BI File: Students Performance Data.pbix
 
 
 🛠️ Tools Used:
 •	Power BI
 •	Data Cleaning in Power Query
 •	Visualizations: Bar Chart, Clustered Column, KPI Cards, Filters, Scatter Plot, Sankey Diagram
-________________________________________
+
 💼 Use Case:
 Useful for Education Analysts, School Administrators, and Policy Makers to understand performance drivers, design interventions, and optimize student success strategies.
