@@ -1,5 +1,7 @@
 # Power-BI-Dashboards
-Power BI Sales Dashboard - Superstore Analysis.
+
+1. Power BI Sales Dashboard - Superstore Analysis.
+2. 
 This Power BI dashboard analyzes sales, profit, and customer trends across different categories, states, and time periods.
 
 ## 🔍 Key Highlights:
